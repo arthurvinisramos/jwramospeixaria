@@ -1,0 +1,10 @@
+button {
+    background-color: #080936e4;
+    color: rgb(218, 165, 32);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Montserrat;
+    font-weight: bolder;
+  }
